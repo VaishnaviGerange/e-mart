@@ -60,6 +60,7 @@ cd e-commerce
 3. Install the dependencies:
 
 npm install
+
 npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
 
 4. Run the application:
