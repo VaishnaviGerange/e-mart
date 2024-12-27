@@ -67,5 +67,11 @@ npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg
 npm run dev
 
 5. Open your browser and go to http://localhost:3000.
+
+6. Demo link
+
+https://e-mart-umber-seven.vercel.app/
+
+please wait while loading all components on the pages it takes time while fetching api's
 >>>>>>> 0931af0 (Initial commit of e-mart project)
 >>>>>>> 66f21d3 (Initial commit of e-mart project)
