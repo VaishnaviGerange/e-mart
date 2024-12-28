@@ -72,7 +72,7 @@ const Navbar = ({ search, setSearch, selectedCategory, setSelectedCategory, cate
         </div>
           <div className=" text-l font-bold cursor-pointer">User</div>
           <div className=" text-l font-bold cursor-pointer flex items-center space-x-2">
-            {/* <span>Cart</span> */}
+            
             {/* Display the total number of items in the cart */}
            
             {/* Cart icon with Link to Cart Page */}

@@ -17,7 +17,7 @@ const Footer = () => {
   <img 
     src="/e.jpg" 
     alt="E-MART Logo" 
-    className="w-10 h-10 rounded-full" // Adjust size and styling as needed
+    className="w-10 h-10 rounded-full" 
   />
   {/* Site Name */}
   <div className="text-2xl font-bold">E-MART!</div>
