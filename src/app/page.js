@@ -1,9 +1,9 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
-import Navbar from './components/Navbar'; // Adjust the path if needed
+import Navbar from './components/Navbar'; 
 import Link from 'next/link';
-import Footer from './components/Footer'; // Import Footer
+import Footer from './components/Footer'; 
 
 export default function HomePage() {
   const [products, setProducts] = useState([]);
