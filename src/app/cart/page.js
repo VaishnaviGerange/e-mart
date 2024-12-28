@@ -51,7 +51,7 @@ const CartPage = () => {
               <p>Total Price: <span className="font-bold text-xl">${totalPrice.toFixed(2)}</span></p>
             </div>
 
-            {/* Proceed to Checkout Button */}
+            
             <div className="absolute top-24 right-7 mt-20 mr-6 w-full flex justify-end">
               <button className="bg-yellow-500 text-white px-6 py-3 rounded-lg hover:bg-yellow-600">
                 Proceed to Checkout
