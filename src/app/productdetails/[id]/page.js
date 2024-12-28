@@ -39,7 +39,7 @@ const ProductDetails = () => {
     const handleAddToCart = async () => {
         if (product) {
             await addToCart(product.id); // Add the product to the cart
-            router.push('/cart'); // Navigate to the Cart page
+            router.push('/cart'); 
         }
     };
 
